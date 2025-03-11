@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>🔭 I’m currently working on <a href="https://github.com/etk-23/Terminal-Velocity" target="_blank">Terminal Velocity</a></p>
-  <p>🌱 I’m currently learning <strong>front-end development</strong></p>
+  <p>🌱 I’m currently learning <strong>Front-End development</strong></p>
   <p>👨‍💻 All of my projects are available on my <a href="https://github.com/Giga4byte" target="_blank">GitHub</a></p>
 </div>
 
