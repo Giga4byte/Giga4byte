@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giribala Arun</h1>
-<h3 align="center">A passionate CSE student from India</h3>
+<h3 align="center">A passionate CSE student interested in Front End Development</h3>
 
 <div align="center">
   <p>🔭 I’m currently working on <a href="https://github.com/etk-23/Terminal-Velocity" target="_blank">Terminal Velocity</a></p>
